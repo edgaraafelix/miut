@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "signup": "node index.js"
+    "signup": "node signup.js"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
     "puppeteer": "^23.10.4"
   },
   "keywords": [
